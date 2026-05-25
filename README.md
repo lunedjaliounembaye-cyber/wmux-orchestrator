@@ -1,5 +1,5 @@
 # wmux-orchestrator
-
+claude plugin add amirlehmam/wmux-orchestrator
 Claude Code plugin that decomposes complex dev tasks into parallel agents coordinated through dependency-aware waves with automated review.
 
 **With wmux**: Each agent gets its own visible terminal pane — watch them work in real-time.
